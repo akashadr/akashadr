@@ -47,6 +47,10 @@
 </p>
 </div>
 
+## **My Coding profile 💻**
+
+<a href="https://codeforces.com/profile/akashjha2671" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/EkSlLWf2-04k5Y5F_MDLqoXPdo0TyZX3zKdCfsEUDqVB7INUypTOd6AVmkE_X7ej3JuR" alt="" height="35" width="35" style="border-radius: 50px"/></a> &nbsp; &nbsp; <a href="https://leetcode.com/Akash_Adr/" target="blank"><img align="center" src="https://camo.githubusercontent.com/cc970ca71436129d452abe304b052203754cf170951dd0a2a1903613f5b32999/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37332f65312f35342f37336531353432323031316537363365613962333033613737333865373161332e676966" alt="" height="40" width="45" /></a> &nbsp; &nbsp; <a href="https://auth.geeksforgeeks.org/user/akashjha2671/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210608021423/Output.gif" alt="" height="35" width="35" /></a> 
+
 
 <div>
   <p align="center" 'text-style=Bold;'>My GitHub Stats:</p>
