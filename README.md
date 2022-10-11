@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&color=4FF7CF&lines=Welcome+to+my+profile+%F0%9F%A4%97%F0%9F%A4%97;I+Love+new+technologies+%E2%9D%A4%EF%B8%8F%F0%9F%98%8D;Like+Blockchain%2C+ML%2C+AI%F0%9F%98%81%F0%9F%98%81+)](https://git.io/typing-svg)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akashadr&label=Profile%20views&color=0e75b6&style=flat" alt="akashadr" /> </p>
+
 ## **About Me 😊😊**
 
 - 👨🏻‍🎓 I am a Technical Content Writer at Gfg and Problem Setter at Interview Mocha.
@@ -41,7 +43,7 @@
 
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=akashadr&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
 
-  <p align="center" >My most used language:</p>
+  <p align="center" >My Most Used Language:</p>
     
   <p align="center"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exoutia&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
 
