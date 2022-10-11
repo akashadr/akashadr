@@ -7,7 +7,7 @@
 
 - 👨🏻‍🎓 I am a Technical Content Writer at Gfg and Problem Setter at Interview Mocha.
 - 👨‍💻 I am 4 star at CodeChef, Specialist at Codeforces and Knight at LeetCode.
-- 🎒 I am a fourth year student in CSE at MCKVIE, Howrah, West Bengal.
+- 📚 I am a fourth year student in CSE at MCKVIE, Howrah, West Bengal.
 - 👀 I’m interested in Blockchain, Python, Machine Learning, Competetive Coding, Web Devlopment.
 - 📖 I’m currently learning Web Development using React, Node, JavaScript etc.
 
@@ -50,6 +50,6 @@
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=akashadr&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
-[![@exoutia's Holopin board](https://holopin.io/api/user/board?user=akashadr)](https://holopin.io/@akashadr) 
+[![@Akash's Holopin board](https://holopin.io/api/user/board?user=akashadr)](https://holopin.io/@akashadr) 
 
 
