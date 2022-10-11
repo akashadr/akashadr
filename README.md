@@ -19,6 +19,20 @@
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
 
+## **Frameworks 🚀**
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
+
+## **Libraries 🚀**
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
+
+## **DataBases 🚀**
+![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=flat&logo=mongodb)
+![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
+
+## **IDEs 🚀**
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
 ## **Connect with me at ✌😉**
 
 <div id= "Connect">
