@@ -35,17 +35,11 @@
 
 ## **Connect with me at ✌😉**
 
-<div id= "Connect">
- <p>
- <a href="https://twitter.com/adr_akash" target="blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
- </a>  
+<p align="left">
 
- <a href="https://www.linkedin.com/in/akash-adr/" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
- </a>
+<a href="https://twitter.com/adr_akash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a> &nbsp; <a href="https://linkedin.com/in/akash-adr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+
 </p>
-</div>
 
 ## **My Coding profile 🌊**
 
