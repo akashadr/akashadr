@@ -50,11 +50,11 @@
 <div id= "Blogs">
  <p>
  <a href="https://auth.geeksforgeeks.org/user/akashjha2671/articles" target="blank">
-  <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-776AB.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white&color=2f8d46">
  </a>  &nbsp;
 
  <a href="https://medium.com/@akashjha2671" target="blank">
-  <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://medium.design&client=VFE&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2">
+  <img src="https://img.shields.io/badge/medium-776AB.svg?style=for-the-badge&logo=medium&logoColor=white&color=black">
  </a> &nbsp;
   
 </p>
