@@ -15,13 +15,14 @@
 
 ## **My Skills 🚀**
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
+![GITHUB](https://img.shields.io/badge/github-%3776AB.svg?style=for-the-badge&logo=github&logoColor=white&color=black)
 ![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
 
 ## **Frameworks 🚀**
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 ## **Libraries 🚀**
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
