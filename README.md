@@ -87,7 +87,7 @@
 
   <p align="center" >My Most Used Language:</p>
     
-  <p align="center"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exoutia&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
+  <p align="center"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashadr&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
 
   <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=akashadr&theme=github"></p>
 
