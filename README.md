@@ -3,7 +3,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&color=4FF7CF&lines=Welcome+to+my+profile+%F0%9F%A4%97%F0%9F%A4%97;I+Love+new+technologies+%E2%9D%A4%EF%B8%8F%F0%9F%98%8D;Like+Blockchain%2C+ML%2C+AI%F0%9F%98%81%F0%9F%98%81+)](https://git.io/typing-svg)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=akashadr&label=Profile%20views&color=0e75b6&style=flat" alt="akashadr" /> </p>
+<p align="center"> 
+ 
+<img src="https://komarev.com/ghpvc/?username=akashadr&label=Profile%20views&color=0e75b6&style=flat" alt="akashadr" />
+<img src="https://img.shields.io/badge/-akashjha2671@gmail.com-333333?style=flat&logo=Gmail" alt="akashadr" />
+
+</p>
 
 ## **About Me 😊😊**
 
@@ -12,6 +17,7 @@
 - 📚 I am a fourth year student in CSE at MCKVIE, Howrah, West Bengal.
 - 👀 I’m interested in Blockchain, Python, Machine Learning, Competetive Coding, Web Devlopment.
 - 📖 I’m currently learning Web Development using React, Node, JavaScript etc.
+
 
 ## **My Skills 🚀**
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
@@ -24,6 +30,7 @@
 ## **Frameworks 🚀**
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Express.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
 
 ## **Libraries 🚀**
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
