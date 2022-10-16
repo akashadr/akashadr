@@ -67,6 +67,10 @@
  <a href="https://medium.com/@akashjha2671" target="blank">
   <img src="https://img.shields.io/badge/medium-776AB.svg?style=for-the-badge&logo=medium&logoColor=white&color=black">
  </a> &nbsp;
+ 
+  <a href="https://www.quora.com/profile/Akash-Adr" target="blank">
+  <img src="https://img.shields.io/badge/quora-776AB.svg?style=for-the-badge&logo=quora&logoColor=white&color=rgb(185, 43, 39)">
+ </a> &nbsp;
   
 </p>
 </div>
