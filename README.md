@@ -94,4 +94,4 @@
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=akashadr&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
-[![@Akash's Holopin board](https://holopin.io/api/user/board?user=akashadr)](https://holopin.io/@akashadr) 
+[![@Akash's Holopin board](https://holopin.me/akashadr)](https://holopin.io/@akashadr)
