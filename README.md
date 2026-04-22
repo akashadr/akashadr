@@ -1,97 +1,145 @@
 ![banner](images/Forestv3.jpg)
-# <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> Hi, I’m @akashadr
+# 👋 Hi, I'm Akash Jha (@akashadr)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&color=4FF7CF&lines=Welcome+to+my+profile+%F0%9F%A4%97%F0%9F%A4%97;I+Love+new+technologies+%E2%9D%A4%EF%B8%8F%F0%9F%98%8D;Like+Blockchain%2C+ML%2C+AI%F0%9F%98%81%F0%9F%98%81+)](https://git.io/typing-svg)
-
-<p align="center"> 
- 
-<img src="https://komarev.com/ghpvc/?username=akashadr&label=Profile%20views&color=0e75b6&style=flat" alt="akashadr" />
-<img src="https://img.shields.io/badge/-akashjha2671@gmail.com-333333?style=flat&logo=Gmail" alt="akashadr" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=4FF7CF&center=true&vCenter=true&width=600&lines=Software+Development+Engineer+%F0%9F%9A%80;Full-Stack+Dev+%7C+React+%2B+Node.js;Knight+on+LeetCode+%7C+950%2B+Problems;Geek+of+the+Year+2022+%F0%9F%8F%86;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </p>
 
-## **About Me 😊😊**
-
-- 👨🏻‍🎓 I am a Technical Content Writer at Gfg and Problem Setter at Interview Mocha.
-- 👨‍💻 I am 4 star at CodeChef, Specialist at Codeforces and Knight at LeetCode.
-- 📚 I am a fourth year student in CSE at MCKVIE, Howrah, West Bengal.
-- 👀 I’m interested in Blockchain, Python, Machine Learning, Competetive Coding, Web Devlopment.
-- 📖 I’m currently learning Web Development using React, Node, JavaScript etc.
-
-
-## **My Skills 🚀**
-![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-![GITHUB](https://img.shields.io/badge/github-%3776AB.svg?style=for-the-badge&logo=github&logoColor=white&color=black)
-![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=183A61)
-![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white&style=for-the-badge)
-
-## **Frameworks 🚀**
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Express.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-
-
-## **Libraries 🚀**
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
-
-## **DataBases 🚀**
-![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=flat&logo=mongodb)
-![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
-
-## **IDEs 🚀**
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=FFFF00)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=Jupyter)
-
-## **Connect with me at ✌😉**
-
-<p align="left">
-
-<a href="https://twitter.com/adr_akash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a> &nbsp; <a href="https://linkedin.com/in/akash-adr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akashadr&label=Profile%20views&color=0e75b6&style=flat" alt="akashadr" />
+  <img src="https://img.shields.io/badge/-akashjha2671@gmail.com-333333?style=flat&logo=Gmail" alt="email" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-2f8d46?style=flat&logo=checkmarx&logoColor=white" alt="open to work" />
 </p>
 
-## **My Coding profile 🌊**
+---
 
-<a href="https://codeforces.com/profile/akashjha2671" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/EkSlLWf2-04k5Y5F_MDLqoXPdo0TyZX3zKdCfsEUDqVB7INUypTOd6AVmkE_X7ej3JuR" alt="" height="35" width="35" style="border-radius: 50px"/></a> &nbsp; &nbsp; <a href="https://www.codechef.com/users/akash_adr" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="" height="35" width="35" style="border-radius: 50px"/></a> &nbsp; &nbsp; <a href="https://www.hackerrank.com/akashjha2671" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="" height="35" width="35" style="border-radius: 50px"/></a> &nbsp; &nbsp; <a href="https://leetcode.com/Akash_Adr/" target="blank"><img align="center" src="https://camo.githubusercontent.com/cc970ca71436129d452abe304b052203754cf170951dd0a2a1903613f5b32999/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37332f65312f35342f37336531353432323031316537363365613962333033613737333865373161332e676966" alt="" height="40" width="45" /></a> &nbsp; &nbsp; <a href="https://auth.geeksforgeeks.org/user/akashjha2671/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210608021423/Output.gif" alt="" height="40" width="45" /></a> &nbsp; &nbsp; <a href="https://www.sololearn.com/profile/17904124" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHER-dvTqh2tA/company-logo_200_200/0/1625174152948?e=1674086400&v=beta&t=P48DYCNeae2DxrmVX2vR4ZtYZcymeKRYQpK3eWDT768" alt="" height="40" width="45" /></a> 
+## **About Me 😊**
 
-## **Articles & Blogs📜**
+- 🎓 **CSE Graduate** (DGPA **9.12**) from MCKV Institute of Engineering, Kolkata (2019–2023)
+- 💼 Currently **SDE 1 @ Onelab Ventures** — building scalable full-stack products (Jul 2023 – Present)
+- 🏆 **Star Performer of the Quarter** — first-ever at Onelab Ventures
+- ⚔️ **Knight on LeetCode** · 950+ problems solved · 500+ day streak
+- 🌟 **Geek of the Year 2022** at GeeksforGeeks · 185+ articles · **5M+ views**
+- 🎯 **CodeChef 4★** · **Codeforces Specialist** · Global Rank **104** (CodeChef Starters 59)
+- 📚 **Problem Setter & Mentor** at Coding Shuttle — set 300+ DSA problems, mentored 600+ students
+- 🇮🇳 **India Rank 2** on Sololearn (Platinum · 24k+ XP)
+- 📦 Published packages on **NPM** · Open source contributor on **GitHub**
 
-<div id= "Blogs">
- <p>
- <a href="https://auth.geeksforgeeks.org/user/akashjha2671/articles" target="blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-776AB.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white&color=2f8d46">
- </a>  &nbsp;
+---
 
- <a href="https://medium.com/@akashjha2671" target="blank">
-  <img src="https://img.shields.io/badge/medium-776AB.svg?style=for-the-badge&logo=medium&logoColor=white&color=black">
- </a> &nbsp;
- 
-  <a href="https://www.quora.com/profile/Akash-Adr" target="blank">
-  <img src="https://img.shields.io/badge/quora-776AB.svg?style=for-the-badge&logo=quora&logoColor=white&color=rgb(185, 43, 39)">
- </a> &nbsp;
-  
+## **Tech Stack 🚀**
+
+### Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-183A61?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## **Connect with Me ✌️**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-adr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashjha2671@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adr_akash)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/akashadr)
+
+---
+
+## **Competitive Programming Profiles 🌊**
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Akash_Adr/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/beyondeagle)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/akash_adr)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/akashjha2671/)
+[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~akashadr)
+
+| Platform | Handle | Rating / Rank |
+|---|---|---|
+| LeetCode | Akash_Adr | **Knight** · 950+ problems · 500+ day streak |
+| CodeChef | akash_adr | **4★** · GR 104 (Starters 59) · GR 210 (Starters 41) |
+| Codeforces | beyondeagle | **Specialist** · GR 384 (Round #823 Div. 2) |
+| GeeksforGeeks | akashjha2671 | **Scholar** · 1800+ score · Geek of the Year 2022 |
+| Sololearn | — | **India Rank 2** · Platinum · 24k+ XP |
+
+---
+
+## **Articles & Blogs 📜**
+
+<p>
+  <a href="https://auth.geeksforgeeks.org/user/akashjha2671/articles" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2f8d46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white">
+  </a>&nbsp;
+  <a href="https://medium.com/@akashjha2671" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white">
+  </a>&nbsp;
+  <a href="https://www.quora.com/profile/Akash-Adr" target="_blank">
+    <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white">
+  </a>
 </p>
-</div>
 
+> 📝 **185+ articles** on C++, Python, DSA, Maths, CP & Git — **5M+ total views**  
+> 🔥 AVL Tree article: **600k+ views** · Function Pointer in C++: **150k+ views**
 
-<div>
-  <p align="center" 'text-style=Bold;'>My GitHub Stats:</p>
+---
 
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=akashadr&show_icons=true&theme=tokyonight&count_private=true" alt="Akash Jha stats"/>
+## **GitHub Stats 📊**
 
-  <p align="center">My GitHub Streak:</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashadr&show_icons=true&theme=tokyonight&count_private=true" alt="Akash Jha GitHub Stats" />
+</p>
 
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=akashadr&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akashadr&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
 
-  <p align="center" >My Most Used Language:</p>
-    
-  <p align="center"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashadr&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
+<p align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashadr&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Top Languages" />
+</p>
 
-  <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=akashadr&theme=github"></p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashadr&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
 
-</div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=akashadr&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 [![@Akash's Holopin board](https://holopin.me/akashadr)](https://holopin.io/@akashadr)
